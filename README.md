@@ -8,6 +8,7 @@
 - [Playwright+MSW でのリグレッションテスト事始](https://techblog.enechain.com/entry/playwright-msw-e2e)
 - [vercel/nextjs](https://github.com/vercel/next.js/blob/canary/packages/next/src/experimental/testmode/playwright/README.md)
 - [フロントエンドのテスト戦略ってどうすればいいの？](https://zenn.dev/coconala/articles/f048377f314507)
+- [Next.jsでVitestを使ってテストをするときのenvファイルを読み込む設定](https://zenn.dev/tabigaeru/articles/8a473117a4d439)
 
 ## マネジメント
 - [スタッフエンジニアの道](https://speakerdeck.com/snoozer05/sutatuhuenzinianodao-the-staff-engineers-path)
@@ -23,6 +24,9 @@
 - [Findyの爆速開発を支えるPull requestの粒度](https://tech.findy.co.jp/entry/2024/10/04/070000)
 - [プルリクを気持ちよくレビューしあえるコツあれこれ](https://zenn.dev/praha/articles/07de6be200563b)
 - [良いコードレビューとは](https://zenn.dev/danimal141/articles/a907e3d35561a0)
+
+## ブラウザ
+- [ブラウザ](https://speakerdeck.com/recruitengineers/browser-9b5a2b70-4b6a-4108-a1f5-0876a3ceb8d0?slide=61)
 
 ## デザイン・UI
 - [いいテーブルのデザインについて](https://coyleandrew.medium.com/design-better-data-tables-4ecc99d23356)
@@ -64,6 +68,7 @@
 ## セキュリティ
 - [Next.js セキュリティ](https://speakerdeck.com/zaru_sakuraba/nextjssekiyuritei)
 - [Webフロントエンドの脆弱性つまみ食い](https://speakerdeck.com/tyage/webhurontoentonocui-ruo-xing-tumamishi-i-2024nian-ban)
+- [一番分かりやすいOAuthの説明](https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be)
 
 
 ## コーディングについて
