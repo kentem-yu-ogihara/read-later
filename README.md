@@ -58,6 +58,7 @@
 - [Next.jsのHTMLレンダリングを理解する](https://zenn.dev/pytokyo/articles/66c68a94446569?redirected=1)
 - [【Next.js】ハイドレーション & プリレンダリング / 簡単な例、考察を添えて。](https://zenn.dev/jordan23/articles/05b78f925d35ba)
 - [【Next.js 15】cache実装が大幅改良される話](https://zenn.dev/sc30gsw/articles/22fa89a432de90)
+- [approuterテスト](https://zenn.dev/react_uncle/articles/be76865b681986)
 
 ## アーキテクチャ
 - [うひょさん、よしこさんと改めて考えるReactコンポーネント設計](https://offers.jp/media/event-report/a_3060#outline-2)
