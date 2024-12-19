@@ -35,6 +35,7 @@
 - [デザインシステムの成長。そして、これからどう向き合うか](https://techblog.enechain.com/entry/design-system-2024)
 - [DataGridを実装して感じたTanStack Tableに対する所感](https://zenn.dev/uhyo/articles/kaonavi-datagrid-tanstack-table)
 - [System Design Template: Front-End Architecture with Next.js, React and Tailwind CSS](https://codermo.medium.com/front-end-system-design-using-next-js-react-tailwind-css-and-typescript-a6c95132b89b)
+- [トークンベースのUIアーキテクチャを設計する](https://martinfowler-com.translate.goog/articles/design-token-based-ui-architecture.html?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja)
 
 ## CSS
 - [GridArea](https://ishadeed.com/article/css-grid-area/)
@@ -46,6 +47,7 @@
 - [React Server Components は Web アプリ開発にどのような変化をもたらすか](https://zenn.dev/izumin/articles/bc47e189e25874#spa%E3%83%BBssr-%E3%81%AB%E3%82%88%E3%82%8B-web-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%AE%9F%E8%A3%85%E3%81%AE%E8%AA%B2%E9%A1%8C)
 - [今後の React ではどの範囲を Suspense で囲むかという設計が重要になってくる](https://zenn.dev/tm35/articles/0a64177c0a41bd)
 - [<Suspense>](https://ja.react.dev/reference/react/Suspense#indicating-that-a-transition-is-happening)
+- [React 19 + Jotaiを試して気づいた注意点](https://speakerdeck.com/uhyo/react-19-plus-jotaiwoshi-siteqi-duita-zhu-yi-dian?slide=7)
 
 ## Next.js(AppRouter)
 - [App Router入門](https://speakerdeck.com/recruitengineers/app-routerru-men-next-dot-js-app-router-at-recruit-bootcamp2024)
@@ -77,9 +79,12 @@
 - [default exportとnamed exportって結局どう使い分ければ良いの？](https://zenn.dev/atamaplus/articles/compare-module-export)
 - [TypeScriptで関数を書くときに気をつけている事](https://zenn.dev/chot/articles/05413b79cc0398)
 
+## typescript
+- [TypeScript のコンパイルと Node.js 実行の流れ](https://zenn.dev/kiwichan101kg/articles/c6c8949dde02a4)
+- [TypeScript初心者へ送る、もう一歩先のTypeScript](https://zenn.dev/yodaka/articles/c98b256864ceda)
+
 ## その他
 - [フロントエンドの現在地とこれから](https://speakerdeck.com/koba04/hurontoentonoxian-zai-di-tokorekara)
-- [TypeScript のコンパイルと Node.js 実行の流れ](https://zenn.dev/kiwichan101kg/articles/c6c8949dde02a4)
 
 ## Github
 - [Gitブランチフロー規約](https://future-architect.github.io/coding-standards/documents/forGitBranch/git_branch_standards.html#git%E3%83%95%E3%82%99%E3%83%A9%E3%83%B3%E3%83%81%E3%83%95%E3%83%AD%E3%83%BC%E8%A6%8F%E7%B4%84)
@@ -96,3 +101,4 @@
 - [【最強】Honoフル活用事例2024年](https://zenn.dev/oliver/articles/hono-advent-calendar-2024)
 - [今ホットなHonoを使ってNext.jsのRoute Handlersをハイジャックする](https://zenn.dev/chot/articles/e109287414eb8c)
 - [【時代はHono🔥!?】今さらながらNext.js App RouterユーザがHonoを調べてみた](https://qiita.com/john-Q/items/394ba6ffdba08580f1bc)
+- [Honoの捉え方、またはNext.jsとの組み合わせ方](https://blog.stin.ink/articles/hono-nextjs-and-web-standard)
