@@ -36,6 +36,8 @@
 - [DataGridを実装して感じたTanStack Tableに対する所感](https://zenn.dev/uhyo/articles/kaonavi-datagrid-tanstack-table)
 - [System Design Template: Front-End Architecture with Next.js, React and Tailwind CSS](https://codermo.medium.com/front-end-system-design-using-next-js-react-tailwind-css-and-typescript-a6c95132b89b)
 - [トークンベースのUIアーキテクチャを設計する](https://martinfowler-com.translate.goog/articles/design-token-based-ui-architecture.html?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja)
+- [デザインシステムを拡張し、プロダクト開発の共通基盤を目指す](https://developers.freee.co.jp/entry/introducing-standard-ui)
+- [見事なレスポンシブウェブサイトの作成：完全ガイド](https://jp.strikingly.com/blog/posts/create-stunning-responsive-websites-complete-guide)
 
 ## CSS
 - [GridArea](https://ishadeed.com/article/css-grid-area/)
@@ -61,6 +63,8 @@
 - [【Next.js】ハイドレーション & プリレンダリング / 簡単な例、考察を添えて。](https://zenn.dev/jordan23/articles/05b78f925d35ba)
 - [【Next.js 15】cache実装が大幅改良される話](https://zenn.dev/sc30gsw/articles/22fa89a432de90)
 - [approuterテスト](https://zenn.dev/react_uncle/articles/be76865b681986)
+- [Loading.tsxはServer Action中に待機画面を表示しない【NextJS】](https://zenn.dev/yosemat/articles/d37819e7bd1608#fnref-7443-1)
+- [PPR - pre-rendering新時代の到来とSSR/SSG論争の終焉](https://zenn.dev/akfm/articles/nextjs-partial-pre-rendering)
 
 ## アーキテクチャ
 - [うひょさん、よしこさんと改めて考えるReactコンポーネント設計](https://offers.jp/media/event-report/a_3060#outline-2)
@@ -83,8 +87,10 @@
 - [TypeScript のコンパイルと Node.js 実行の流れ](https://zenn.dev/kiwichan101kg/articles/c6c8949dde02a4)
 - [TypeScript初心者へ送る、もう一歩先のTypeScript](https://zenn.dev/yodaka/articles/c98b256864ceda)
 
+
 ## その他
 - [フロントエンドの現在地とこれから](https://speakerdeck.com/koba04/hurontoentonoxian-zai-di-tokorekara)
+- [Webプログラマと数学の接点、その入り口](https://speakerdeck.com/naoya/webpuroguramatoshu-xue-falsejie-dian-sofalseru-rikou?slide=14)
 
 ## Github
 - [Gitブランチフロー規約](https://future-architect.github.io/coding-standards/documents/forGitBranch/git_branch_standards.html#git%E3%83%95%E3%82%99%E3%83%A9%E3%83%B3%E3%83%81%E3%83%95%E3%83%AD%E3%83%BC%E8%A6%8F%E7%B4%84)
@@ -102,3 +108,4 @@
 - [今ホットなHonoを使ってNext.jsのRoute Handlersをハイジャックする](https://zenn.dev/chot/articles/e109287414eb8c)
 - [【時代はHono🔥!?】今さらながらNext.js App RouterユーザがHonoを調べてみた](https://qiita.com/john-Q/items/394ba6ffdba08580f1bc)
 - [Honoの捉え方、またはNext.jsとの組み合わせ方](https://blog.stin.ink/articles/hono-nextjs-and-web-standard)
+- [Next.js の Middleware で Hono を使う](https://zenn.dev/coefont/articles/using-hono-in-next-middleware)
