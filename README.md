@@ -9,6 +9,8 @@
 - [vercel/nextjs](https://github.com/vercel/next.js/blob/canary/packages/next/src/experimental/testmode/playwright/README.md)
 - [フロントエンドのテスト戦略ってどうすればいいの？](https://zenn.dev/coconala/articles/f048377f314507)
 - [Next.jsでVitestを使ってテストをするときのenvファイルを読み込む設定](https://zenn.dev/tabigaeru/articles/8a473117a4d439)
+- [https://developers.prtimes.jp/2024/12/25/press-release-editor-frontend-testing/](PR TIMESエディターのフロントエンドテスト戦略 2024年版)
+- [App Routerで学ぶテスト実践会のレポート](https://zenn.dev/react_uncle/articles/be76865b681986)
 
 ## マネジメント
 - [スタッフエンジニアの道](https://speakerdeck.com/snoozer05/sutatuhuenzinianodao-the-staff-engineers-path)
@@ -109,3 +111,5 @@
 - [【時代はHono🔥!?】今さらながらNext.js App RouterユーザがHonoを調べてみた](https://qiita.com/john-Q/items/394ba6ffdba08580f1bc)
 - [Honoの捉え方、またはNext.jsとの組み合わせ方](https://blog.stin.ink/articles/hono-nextjs-and-web-standard)
 - [Next.js の Middleware で Hono を使う](https://zenn.dev/coefont/articles/using-hono-in-next-middleware)
+- [Hono Takibi というツールを作りました](https://zenn.dev/mini_bg_pro_n/articles/018e9cc483f02e)
+- [あらゆるフレームワークで Hono を使いたい](https://zenn.dev/morinokami/articles/hono-anywhere)
