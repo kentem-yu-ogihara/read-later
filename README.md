@@ -9,7 +9,7 @@
 - [vercel/nextjs](https://github.com/vercel/next.js/blob/canary/packages/next/src/experimental/testmode/playwright/README.md)
 - [フロントエンドのテスト戦略ってどうすればいいの？](https://zenn.dev/coconala/articles/f048377f314507)
 - [Next.jsでVitestを使ってテストをするときのenvファイルを読み込む設定](https://zenn.dev/tabigaeru/articles/8a473117a4d439)
-- [https://developers.prtimes.jp/2024/12/25/press-release-editor-frontend-testing/](PR TIMESエディターのフロントエンドテスト戦略 2024年版)
+- [PR TIMESエディターのフロントエンドテスト戦略 2024年版](https://developers.prtimes.jp/2024/12/25/press-release-editor-frontend-testing/)
 - [App Routerで学ぶテスト実践会のレポート](https://zenn.dev/react_uncle/articles/be76865b681986)
 
 ## マネジメント
